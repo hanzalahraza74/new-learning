@@ -1,0 +1,17 @@
+@media only screen and (max-width: 780px) {
+      .navbar1 {
+       display: block;
+      }
+      .navbar2{
+display: none;
+      }
+    }
+
+    @media only screen and (min-width: 780px) {
+      .navbar1 {
+       display: none;
+      }
+      .navbar2{
+display: block;
+      }
+    }
